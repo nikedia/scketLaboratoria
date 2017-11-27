@@ -1,4 +1,4 @@
-# **Challenge 3: Dashboard Sketch Laboaratoria**
+# **Challenge 3: Dashboard Sketch Laboratoria**
 
 * **Track:** _Common Core_
 * **Curso:** _Creando tu primer sitio web interactivo_
@@ -8,6 +8,6 @@
 
 ## Objetivo
 
-* El reto consiste en hacer un Dashboard de Laboratoria.
+* El reto consiste en hacer un Dashboard para Laboratoria.
 
 ![Dashboard](assets/primero.jpeg)
